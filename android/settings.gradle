@@ -1,0 +1,3 @@
+rootProject.name = 'appScrollInfinito'
+
+include ':app'
